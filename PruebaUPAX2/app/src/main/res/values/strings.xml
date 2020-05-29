@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PruebaUPAX</string>
+    <string name="choose_example">Selecciona el ejercicio a validar:</string>
+    <string name="maps">Activity Maps</string>
+    <string name="ws">Activity WebServices</string>
+    <string name="button">Activity Button</string>
+    <string name="db">Activity persintencia</string>
+    <string name="typeMarkers">Ingresa la cantidad de marcadores</string>
+    <string name="hint_nombre">Ingresa tu nombre</string>
+    <string name="hint_fecha_nac">Fecha de nacimiento</string>
+    <string name="puesto">Puesto</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
